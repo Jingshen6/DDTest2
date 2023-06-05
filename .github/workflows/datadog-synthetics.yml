@@ -33,6 +33,6 @@ jobs:
       with:
         api_key: ${{secrets.DD_API_KEY}}
         app_key: ${{secrets.DD_APP_KEY}}
-        public_ids: 'wnn-7mm-hx2, wnn-7mm-hx2'
+        public_ids: 'd3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8r, d3s-b78-w8rv, d3s-b78-w8r'
 
 
